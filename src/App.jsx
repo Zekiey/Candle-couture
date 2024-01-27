@@ -3,7 +3,7 @@ import AnimatedCursor from "react-animated-cursor"
 
 function App() {
   return (
-    <div className='min-h-screen box-border bg-[#000] text-white  w-auto max-[375px]:bg-black max-[375px]:w-[216vw] h-auto'>
+    <div className='min-h-screen box-border bg-[#000] text-white  w-auto max-[375px]:bg-black max-[425px]:bg-black max-[375px]:w-[216vw]  max-[425px]:w-[152vw] h-auto'>
       <AnimatedCursor
         innerSize={20}
         outerSize={10}
