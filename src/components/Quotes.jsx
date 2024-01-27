@@ -14,7 +14,7 @@ const Quotes = () => {
                     Thank you for this <br /> genuinely the best/only <br /> thing I really need to look <br /> at Instagram
                 </div>
             </div>
-            <div className='flex items-center mt-40 justify-center max-[376px]:hidden'>
+            <div className='flex items-center mt-40 justify-center max-[425px]:hidden'>
                 <div className='flex space-y-5 -mt-36 flex-col'>
                     <img className='w-10' src={quote} alt="" />
 
